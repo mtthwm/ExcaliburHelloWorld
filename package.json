@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "My first Excalibur project",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "excalibur": "^0.25.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.19",
+    "parcel": "^2.3.2"
+  }
+}
